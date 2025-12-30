@@ -69,10 +69,10 @@ python virtual_mouse.py
 ```
 📈 Performance Highlights
 
-> Low-latency real-time gesture recognition
-> High accuracy hand landmark detection
-> Stable cursor movement with minimal jitter
-<img width="1380" height="1362" alt="Screenshot 2025-05-08 204744" src="https://github.com/user-attachments/assets/2af57456-81fa-43dd-b092-5a209c6f9dd3" />
+- Low-latency real-time gesture recognition
+- High accuracy hand landmark detection
+- Stable cursor movement with minimal jitter
+<img width="1000" height="990" alt="Screenshot 2025-05-08 204744" src="https://github.com/user-attachments/assets/2af57456-81fa-43dd-b092-5a209c6f9dd3" />
 
 
 🔮 Future Enhancements
@@ -87,5 +87,5 @@ python virtual_mouse.py
 Mohammed Thaqib ul Rahman
 Final-Year B.Tech (Artificial Intelligence & Machine Learning)
 Sphoorthy Engineering College<img width="634" height="522" alt="Screenshot 2025-06-12 115606" src="https://github.com/user-attachments/assets/ea0b9104-3204-4c76-b6a7-acaf82604041" />
-<img width="656" height="528" alt="Screenshot 2025-06-12 115728" src="https://github.com/user-attachments/assets/b2b89dbe-e0c3-441d-a431-cc5333753267" />
-<img width="634" height="547" alt="Screenshot 2025-06-12 115453" src="https://github.com/user-attachments/assets/5be1ac92-9f36-4859-9495-e09784751697" />
+<img width="500" height="500" alt="Screenshot 2025-06-12 115728" src="https://github.com/user-attachments/assets/b2b89dbe-e0c3-441d-a431-cc5333753267" />
+<img width="500" height="500" alt="Screenshot 2025-06-12 115453" src="https://github.com/user-attachments/assets/5be1ac92-9f36-4859-9495-e09784751697" />
