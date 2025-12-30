@@ -66,7 +66,7 @@ git clone https://github.com/your-username/AI-Virtual-Mouse.git
 cd AI-Virtual-Mouse
 pip install -r requirements.txt
 python virtual_mouse.py
-
+```
 📈 Performance Highlights
 
 > Low-latency real-time gesture recognition
