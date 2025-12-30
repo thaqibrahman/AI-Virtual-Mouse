@@ -72,15 +72,15 @@ python virtual_mouse.py
 - Low-latency real-time gesture recognition
 - High accuracy hand landmark detection
 - Stable cursor movement with minimal jitter
-<img width="1000" height="990" alt="Screenshot 2025-05-08 204744" src="https://github.com/user-attachments/assets/2af57456-81fa-43dd-b092-5a209c6f9dd3" />
+<img width="600" height="650" alt="Screenshot 2025-05-08 204744" src="https://github.com/user-attachments/assets/2af57456-81fa-43dd-b092-5a209c6f9dd3" />
 
 
 🔮 Future Enhancements
 
-> Gesture customization module
-> Multi-hand and multi-gesture support
-> Deep learning–based gesture classification
-> Cross-platform optimization (Linux, macOS)
+- Gesture customization module
+- Multi-hand and multi-gesture support
+- Deep learning–based gesture classification
+- Cross-platform optimization (Linux, macOS)
 
 👨‍💻 Author
 
